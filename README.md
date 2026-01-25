@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Ezequiel!
+# 👋 Hello, I'm  Smailyn Ezequiel!
 
 ## 🚀 About Me
 I'm a creative developer who enjoys building solutions with JavaScript, TypeScript, and Python.  
