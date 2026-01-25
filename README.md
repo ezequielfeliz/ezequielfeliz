@@ -7,6 +7,13 @@ I like learning by doing, experimenting with logic, and using modern tools (incl
 💡 **Ideas + Practice + AI = Growth**
 
 ---
+## 🌍 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smailyn-ezequiel-feliz-386011215/)
+[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/sfeliz)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0078D4?logo=visual-studio-code&logoColor=white)](https://ezequielfeliz.github.io/#about)
+
+----
 
 ### 💻 Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
