@@ -29,9 +29,6 @@ I like learning by doing, experimenting with logic, and using modern tools (incl
 
 ## 📊 GitHub Stats
 
-### 🔤 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielfeliz&layout=compact&theme=tokyonight)
-
 ### 📈 Contribution Graph
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ezequielfeliz&theme=tokyo-night)
 
