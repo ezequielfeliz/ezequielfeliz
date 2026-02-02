@@ -12,6 +12,7 @@ I like learning by doing, experimenting with logic, and using modern tools (incl
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smailyn-ezequiel-feliz-386011215/)
 [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/sfeliz)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0078D4?logo=visual-studio-code&logoColor=white)](https://ezequielfeliz.github.io/#about)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/ezequielfeliz/)
 
 ----
 
@@ -26,8 +27,6 @@ I like learning by doing, experimenting with logic, and using modern tools (incl
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
 
 ### 📈 Contribution Graph
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ezequielfeliz&theme=tokyo-night)
