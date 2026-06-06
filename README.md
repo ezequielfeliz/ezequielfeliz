@@ -25,6 +25,7 @@ I like learning by doing, experimenting with logic, and using modern tools (incl
 ### ⚙️ Backend
 ![C%23](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
 
 ---
 
